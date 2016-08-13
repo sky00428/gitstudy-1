@@ -16,6 +16,9 @@ public class Calc
 		return r;
 	}
 	
+	public void dec(int d) { //add method
+		r-=d;
+	}
 
 }
 
